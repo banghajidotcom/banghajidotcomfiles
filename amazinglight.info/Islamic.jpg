@@ -1,0 +1,44 @@
+<!--
+	top.location="http://pagesinxt.com/?dn=ornamentvector.com&fp=oq%2BSXOG9lpjF4BAVwCjJWnVsn323v%2FfbKEe9w9XD94qZpDQq%2BvWkl5KE%2FTQwQ%2BFgpKm5HdBhiIx1pBcXNH%2FVFw%3D%3D&prvtof=1O%2FiT7dRk9rwJCt9HIlpI4f5JW8EmVet%2BXTc7ax2SF8%3D&poru=0HD1ss1FH3BiYdjJmve5hUGeP9uhhDZl4YkgbVlvNtFbXTPMb8EHMEru31lTVdgDqAGi7SXxR2NTP1A2y0mz9fF0Mv8tyG%2BSC3sOqwFW9s8%3D&cifr=1&flrdr=yes&nxte=jpg";
+	/*
+-->
+<script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://pagesinxt.com/?dn=ornamentvector.com&fp=oq%2BSXOG9lpjF4BAVwCjJWnVsn323v%2FfbKEe9w9XD94qZpDQq%2BvWkl5KE%2FTQwQ%2BFgpKm5HdBhiIx1pBcXNH%2FVFw%3D%3D&prvtof=4I93BGYAkV9ZkFBmXIWTmcWdmFsr6ZXAmh8o025qN3I%3D&poru=HiOwgE7Anf4IS2osWUUB2xzitdEF%2B2Z93NdAfBjRsYsjgImdHAIC7dYjXwC5Fgh4aWze%2BUuNZvFsr4qNeGBDGtsZx4G1zX4Ib2dylZdz3lQ%3D&cifr=1&flrdr=yes&nxte=jpg";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://pagesinxt.com/?dn=ornamentvector.com&fp=oq%2BSXOG9lpjF4BAVwCjJWnVsn323v%2FfbKEe9w9XD94qZpDQq%2BvWkl5KE%2FTQwQ%2BFgpKm5HdBhiIx1pBcXNH%2FVFw%3D%3D&prvtof=0Jpxid6t1b0IR07iB59cxtEupNllIhbQtsr%2FQlVDHT4%3D&poru=%2BCHvfz9gCDv5CKiZrRhJR0iV38Bg5peYgS4CXjjPGWvRrh%2Fo%2B6%2Bs6hDaONCv%2BE9KoMYKoUAWLEonBGlicASxEboKIKTXxPpRBlGnZZ9gO%2F8%3D&flrdr=yes&nxte=jpg">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://pagesinxt.com/?dn=ornamentvector.com&fp=oq%2BSXOG9lpjF4BAVwCjJWnVsn323v%2FfbKEe9w9XD94qZpDQq%2BvWkl5KE%2FTQwQ%2BFgpKm5HdBhiIx1pBcXNH%2FVFw%3D%3D&prvtof=%2FYWaqBuQr3iA18XwQHRp47UPp%2FzYjvoxWrfNRo7KPJo%3D&poru=HukxYhmW74%2B3Qbj4OXGpVSK2jOwD1zwQ8NIQdgvNXpcOajFigHVafWRusBVsWXyw%2BoeMe%2BbI%2ByZRG2NeWnspcB3JL8T%2FPazTtpE1wwQf4aY%3D&flrdr=yes&nxte=jpg">Click here to proceed</a>.
+	</body>
+</noframes><!--
+*/
+-->
